@@ -117,5 +117,9 @@ Mockup ini dirancang untuk menyajikan insight penjualan secara menyeluruh melalu
 
 <img width="878" height="1500" alt="image" src="https://github.com/user-attachments/assets/a9865879-9295-46f8-bb4f-ad12398d1d4e" />
 
+### Pembuatan Dashboard
 
+![Transaction_Dashboard_page-0001](https://github.com/user-attachments/assets/2c1c6866-b8a5-48a4-bf6b-c298887825e0)
+
+Link Dashboard : https://lookerstudio.google.com/reporting/6a54080b-e9bb-4adf-98bc-2ce360b247b0
 
